@@ -7,7 +7,9 @@ You can either open executables easilty with ./1 There are 12 C++ source file fo
 Follow these steps to resolve any problems:  
 
 1.⁠ Open the terminal which you want rather it can be Developer Command Prompt VS 2022 or Command line.
+
 2. Find the relevant C++ file name and location for Command Line.
+
 3.⁠ After find the location compile the file with the command in VS terminal or Command Line⁠ : 
 
 g++ Problem 1.cpp -o problem1  
