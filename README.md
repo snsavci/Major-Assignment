@@ -14,11 +14,12 @@ Find the C++ source file (ProblemX.cpp) you wish to execute and note its locatio
 
 3. Compile the File
 Navigate to the file's location in the terminal and compile it using the following command:
-   g++ Problem1.cpp -o problem1
 
+   g++ Problem1.cpp -o problem1
 
 4.⁠ ⁠Run the Executable
 After successful compilation, run the program with:
+
    problem1 
 
 Note : This solution is for windows based systems. There are different commands for every system. For example in Linux based systems to execute the code you need to type : ./problem1
