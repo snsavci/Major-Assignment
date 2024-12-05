@@ -1,21 +1,24 @@
-# dsa_major-assignment
+# Major-Assignment
 
-Operating from Command Line Instructions
+**Operating from Command Line Instructions**
 
-You can either open executables easilty with ./1 There are 12 C++ source file for each problem. Each source file contains the solution to a different problem. At the beginning of each file are instructions for solving a specific problem.
+This repository contains 12 C++ source files, each providing a solution to a unique problem. At the beginning of every file, you'll find detailed instructions for solving the respective problem.
 
-Follow these steps to resolve any problems:  
+Follow the steps below to compile and run the programs:
 
-1.⁠ Open the terminal which you want rather it can be Developer Command Prompt VS 2022 or Command line.
+1. Open the Terminal
+You can use any terminal of your choice, such as the Developer Command Prompt for VS 2022 or the standard Command Line.
 
-2. Find the relevant C++ file name and location for Command Line.
+2. Locate the Relevant File
+Find the C++ source file (ProblemX.cpp) you wish to execute and note its location.
 
-3.⁠ After find the location compile the file with the command in VS terminal or Command Line⁠ : 
+3. Compile the File
+Navigate to the file's location in the terminal and compile it using the following command:
+   g++ Problem1.cpp -o problem1
 
-g++ Problem 1.cpp -o problem1  
 
-4.⁠ ⁠Run the resulting executable with the command in VS terminal or Command Line : 
-
-problem1 
+4.⁠ ⁠Run the Executable
+After successful compilation, run the program with:
+   problem1 
 
 Note : This solution is for windows based systems. There are different commands for every system. For example in Linux based systems to execute the code you need to type : ./problem1
